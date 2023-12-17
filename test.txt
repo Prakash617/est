@@ -1,0 +1,92 @@
+<div class="grid grid-cols-2 gap-4 mt-12">
+
+
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex ">
+                    <div class="flex justify-center bg-orange-300 h-[80px] w-[80px] rounded-full inline-block ">
+                        <div class="my-auto text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </div>
+                    </div>
+                    <div class="inline-block">
+                        <p class="text-2xl">Safety First</p>
+                        <p>Safety is KCS's foremost concern, underscored by comprehensive insurance coverage, ensuring a secure environment for all students and staff.</p>
+                    </div>
+
+                </div>
+                <div class="flex items-center p-5 bg-white ">
+                    <div class="p-4  text-orange-500 bg-orange-100 rounded-full">
+                        <p class="text-2xl ">
+                            <i class="fa-solid fa-shield-halved"></i>
+                        </p>
+                        <!-- <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> -->
+                        <!-- SVG of a person reading a book icon -->
+                        <!-- </svg> -->
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-gray-700">Regular Classes</h3>
+                        <p class="text-sm text-gray-600">KCS provides a balanced learning experience through standard academic classes and a diverse range of extracurricular activities, catering to the holistic development of students.</p>
+                    </div>
+                </div>
+
+
+            </div>
